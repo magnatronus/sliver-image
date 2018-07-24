@@ -5,7 +5,7 @@ A Flutter demo of a custom widget based on SliverPersistentHeader. The image is 
 The main Widget is in the sliverimage.dart file.
 
 
-!(SiverImage Widget)[http://butterfly-mobile.uk/wp-content/uploads/2018/07/sliverimage.gif]
+<img src="http://butterfly-mobile.uk/wp-content/uploads/2018/07/sliverimage.gif" />
 
 
 ## Getting Started
